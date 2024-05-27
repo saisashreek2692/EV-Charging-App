@@ -88,7 +88,7 @@ const styles = StyleSheet.create({
     padding: 16,
     display: "flex",
     borderRadius: 99,
-    marginTop: 20,
+    marginTop: 40,
   },
   loginBTNText: {
     color: Colors.WHITE,
