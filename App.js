@@ -12,7 +12,7 @@ import TabNavigation from "./App/Navigation/TabNavigation";
 import * as Location from "expo-location";
 import { UserLocationContext } from "./App/Context/UserLocationContext"
 
-SplashScreen.preventAutoHideAsync();
+// SplashScreen.preventAutoHideAsync();
 
 const tokenCache = {
   async getToken(key) {
